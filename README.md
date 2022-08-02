@@ -9,6 +9,6 @@ So, that is the goal of this repo, to have fun. Hope that the work I do could be
 Thank you!
 
 
-###Where you can find me
+## Where you can find me
 Please, if you want to contact with me, reach my mail 'jmcanals98@gmail.com' or connect with me on [Linkedin](http://linkedin.com/in/juan-manuel-canals/)
 
