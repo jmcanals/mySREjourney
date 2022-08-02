@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to my SRE Journey
 
-You can use the [editor on GitHub](https://github.com/jmcanals/mySREjourney/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I wanted to create this Github pages in order to make honour to one of the principles an SRE should take in consideration seriously, which is **document** their work. But, first of all, let me introduce myself:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hi, my name is Juan Manuel Canals, but better call me Juanma :) If I am honest, I started my SRE journey 2 years ago, when I got into IBM in an SRE graduate program. I entered the program the same month I finished my University Degree in Telecom, and from that moment until now I have been learning different technologies working all around different departments for the same client, one of the biggest banks here in Spain. I consider that I have learned a lot mainly because of the colleagues with whom I have been working with, but I want to try new things. I want to deploy and destroy, build my own server, deploy services and monitor their performance, try to attack them, recover from those attacks... I just wanna have fun. 
 
-### Markdown
+So, that is the goal of this repo, to have fun. Hope that the work I do could be used by more people.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Thank you!
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+###Where you can find me
+Please, if you want to contact with me, reach my mail 'jmcanals98@gmail.com' or connect with me on [Linkedin](http://linkedin.com/in/juan-manuel-canals/)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jmcanals/mySREjourney/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
